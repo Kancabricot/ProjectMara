@@ -13,10 +13,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"Mac",
-		"Windows",
-		"Linux",
-		"LinuxArm64",
-		"HoloLens"
+		"Windows"
 	]
 }
